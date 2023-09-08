@@ -1,4 +1,4 @@
-## TASK 1️⃣ ##
+## TASK 1️ ##
 
 ### Subtask :one: ###
 _Testnig quiz score: 8/10_ 🥳

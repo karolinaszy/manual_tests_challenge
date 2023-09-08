@@ -1,7 +1,7 @@
 ## TASK 1️ ##
 
 ### Subtask :one: ###
-_Testnig quiz score: 8/10_ 🥳
+_Testing quiz score: 8/10_ 🥳
 
 ### Subtask :two: ###
 _Adding a new Github repository_

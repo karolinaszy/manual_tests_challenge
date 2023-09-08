@@ -1,10 +1,11 @@
 ## TASK 1 ##
 
 ### Subtask 1 ###
+----------------------------
 _Testnig quiz score: 8/10_
 
 ### Subtask 2 ###
-_Adding a new Githun repository_
+_Adding a new Github repository_
 
 ### Subtask 3 ###
 _README editing_

@@ -46,6 +46,7 @@ The interface is too simple and minimalistic, making the app look as if it's sti
 After logging in, user is redirected to the dashboard. The dashboard displays header, central area and left panel with 4 buttons (Main page, Players, Language change, Sign out). In the central area of the dashboard, there are 7 tiles, 4 of which are only text tiles and the other 3 are clickable. The first one redirects to contacting the Dev Team, the second one to adding a player form and the last one to the last created or updated player/match/report. 
 
 __Intuitiveness__
+
 Only dashboard seems intuitive to me. 
 Placing the picture with the logo on the left main panel would be more adequate in my opinion. 
 

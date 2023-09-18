@@ -18,6 +18,8 @@ I also look forward to learn about __DevTools__, which, at this time, seem one o
 ### Subtask :four: ###
 [Scouts Panel](https://scouts-test.futbolkolektyw.pl/en) - _exploratory testing_
 
-Scouts Panel is a web application created for football ⚽ head hunters, so they could browse players' data. The structure and design of the app are simple and navigating seems to be intuitive. After logging in, user is redirected to the dashboard. The dashboard displays header, central area and left panel with 4 buttons (Main page, Players, Language change, Sign out). In the central area of the dashboard, there are 7 tiles, 4 of which are only text tiles and the other 3 are clickable. The first one redirects to contacting the Dev Team, the second one to adding a player form and the last one to the last created or updated player/match/report.
+What's this app for?
+
+Scouts Panel is a web application created for football ⚽ headhunters. It is a database with football players and matches. The structure and design of the app are simple and navigating seems to be intuitive. After logging in, user is redirected to the dashboard. The dashboard displays header, central area and left panel with 4 buttons (Main page, Players, Language change, Sign out). In the central area of the dashboard, there are 7 tiles, 4 of which are only text tiles and the other 3 are clickable. The first one redirects to contacting the Dev Team, the second one to adding a player form and the last one to the last created or updated player/match/report.
 
 ----------------------------

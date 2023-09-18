@@ -2,10 +2,14 @@
 
 ### Subtask :one: ###
 _Testing quiz score: 8/10_ 🥳
+
 -------------------------------------
+
 ### Subtask :two: ###
 _Adding a new Github repository_
+
 ----------------------------------
+
 ### Subtask :three: ###
 _README editing_
 
@@ -14,7 +18,9 @@ This Manual Testing Challenge is my second _DareIT_ course. I've decided to part
 - understand the basics of __SQL__ (which I've already started practicing on my own)
 
 I also look forward to learn about __DevTools__, which, at this time, seem one of the most useful and practical testing tools to me.
+
 ----------------------------------------
+
 ### Subtask :four: ###
 [Scouts Panel](https://scouts-test.futbolkolektyw.pl/en) - _exploratory testing_
 

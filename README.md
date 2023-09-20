@@ -4,25 +4,26 @@
 <summary> <h3> Subtask 1️⃣  </h3> </summary>
 <i> Testing quiz score: 8/10 </i> 🥳
 </details>
+
 <details>
 <summary> <h3> Subtask :two: </h3> </summary>
 <i> Adding a new Github repository </i>
 </details>
 
-
-### Subtask :three: ###
-_README editing_
+<details>
+<summary> <h3> Subtask :three: </h3> </summary>
+<i> README editing </i>
 
 This Manual Testing Challenge is my second _DareIT_ course. I've decided to participate in this one, feeling encouraged right after completing the Automated Testing and Python course, which I found really helpful and exciting. I'm sure this challenge will be also based on independent practice and that's exactly what I'm looking for. My main purpose for this course is to:
 - develop skills in __web and mobile app testing__
 - understand the basics of __SQL__ (which I've already started practicing on my own)
 
 I also look forward to learn about __DevTools__, which, at this time, seem one of the most useful and practical testing tools to me.
+</details>
 
-----------------------------------------
-
-### Subtask :four: ###
-[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en) - _exploratory testing_
+<details>
+<summary> <h3> Subtask :four: </h3> </summary>
+[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en) - <i> exploratory testing </i>
 
 __What's this app for?__
 
@@ -48,7 +49,8 @@ After logging in, user is redirected to the dashboard. The dashboard displays he
 __Intuitiveness__
 
 Only dashboard seems intuitive to me. 
-Placing the picture with the logo on the left main panel would be more adequate in my opinion. 
+Placing the picture with the logo on the left main panel would be more adequate in my opinion.
+</details>
 
 ----------------------------
 

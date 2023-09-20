@@ -4,7 +4,6 @@
 <summary> <h3> Subtask 1️⃣  </h3> </summary>
 <i> Testing quiz score: 8/10 </i> 🥳
 </details>
-
 <details>
 <summary> <h3> Subtask :two: </h3> </summary>
 <i> Adding a new Github repository </i>

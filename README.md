@@ -57,7 +57,9 @@ Placing the picture with the logo on the left main panel would be more adequate 
 
 ## TASK 2 ##
 
-### Subtask :one: ###
-_The purpose of writing test cases_ 📖
+<details>
+<summary> <h3>Subtask :one: </h3> </summary>
+<i>The purpose of writing test cases </i> 📖
 
 Test cases pisane są w celu sprawdzenia czy aplikacja działa zgodnie z założeniami zawartymi w dokumentacji, czy spełnia wymagania i czy po wykonaniu czynności opisanych w przypadkach testowych rezultaty rzeczywiste są zgodne z oczekiwanymi. Test casy pozwalają także upewnić się, że przeprowadzono wszystkie (ustalone na potrzeby danego projektu) testy funkcjonalności aplikacji. Są także dobrym źródłem wiedzy o działaniu aplikacji dla osób dołączających do projektu. Pomagają wykryć bugi aplikacji. Są ważne w procesie zapewniania wysokiej jakości oprogramowania i dostarczenia klientowi oczekiwanego produktu.
+</details>

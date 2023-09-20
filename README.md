@@ -24,7 +24,8 @@ I also look forward to learn about __DevTools__, which, at this time, seem one o
 <details>
 <summary> <h3> Subtask :four: </h3> </summary>
 [Scouts Panel](https://scouts-test.futbolkolektyw.pl/en) - <i> exploratory testing </i>    
-  
+
+      
 <b> What's this app for? </b>
 
 Scouts Panel is a web and mobile application created for football ⚽ headhunters. It is a database with football players, matches and reports. 

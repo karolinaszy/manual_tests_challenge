@@ -2,8 +2,8 @@
 
 <details>
   
-<summary> <h3></h3> Subtask 1️⃣: </h3> </summary>
-_Testing quiz score: 8/10_ 🥳
+<summary> <h3></h3> Subtask 1️⃣ : </h3> </summary>
+<i> Testing quiz score: 8/10 </i> 🥳
 
 </details>
 

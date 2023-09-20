@@ -27,9 +27,8 @@ I also look forward to learn about <b>DevTools</b>, which, at this time, seem on
 [Scouts Panel](https://scouts-test.futbolkolektyw.pl/en) - <i> exploratory testing </i> <br>
 <br>
 <b> What's this app for? </b> <br>
+Scouts Panel is a web and mobile application created for football ⚽ headhunters. It is a database with football players, matches and reports. <br>
 <br>
-Scouts Panel is a web and mobile application created for football ⚽ headhunters. It is a database with football players, matches and reports. 
-
 <b> Functionalities: </b>
 
 - login and password typing

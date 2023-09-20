@@ -2,7 +2,7 @@
 
 <details>
   
-<summary>### Subtask :one: ###</summary>
+<summary> ### Subtask :one: ### </summary>
 _Testing quiz score: 8/10_ 🥳
 
 </details>

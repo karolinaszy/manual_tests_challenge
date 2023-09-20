@@ -14,11 +14,11 @@
 <summary> <h3> Subtask :three: </h3> </summary>
 <i> README editing </i>
 <br> </br>
-This Manual Testing Challenge is my second _DareIT_ course. I've decided to participate in this one, feeling encouraged right after completing the Automated Testing and Python course, which I found really helpful and exciting. I'm sure this challenge will be also based on independent practice and that's exactly what I'm looking for. My main purpose for this course is to:
-- develop skills in __web and mobile app testing__
-- understand the basics of __SQL__ (which I've already started practicing on my own)
+This Manual Testing Challenge is my second <i>DareIT</i> course. I've decided to participate in this one, feeling encouraged right after completing the Automated Testing and Python course, which I found really helpful and exciting. I'm sure this challenge will be also based on independent practice and that's exactly what I'm looking for. My main purpose for this course is to:
+- develop skills in <b>web and mobile app testing</b>
+- understand the basics of <b>SQL </b> (which I've already started practicing on my own)
 
-I also look forward to learn about __DevTools__, which, at this time, seem one of the most useful and practical testing tools to me.
+I also look forward to learn about <b>DevTools</b>, which, at this time, seem one of the most useful and practical testing tools to me.
 </details>
 
 <details>

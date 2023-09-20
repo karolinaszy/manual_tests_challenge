@@ -1,8 +1,8 @@
-## TASK 1️ ##
+## TASK 1️ ## 
 
 <details>
 <summary> <h3> Subtask 1️⃣  </h3> </summary>
-<i> Testing quiz score: 8/10 </i> 🥳
+<i> Testing quiz score: 8/10 </i> 🥳 
 </details>
 
 <details>

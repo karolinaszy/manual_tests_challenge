@@ -53,8 +53,6 @@ Only dashboard seems intuitive to me.
 Placing the picture with the logo on the left main panel would be more adequate in my opinion.
 </details>
 
-----------------------------
-
 ## TASK 2 ##
 
 <details>

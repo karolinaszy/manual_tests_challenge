@@ -1,7 +1,11 @@
 ## TASK 1️ ##
 
-### Subtask :one: ###
+<details>
+  
+<summary>### Subtask :one: ###</summary>
 _Testing quiz score: 8/10_ 🥳
+
+</details>
 
 -------------------------------------
 

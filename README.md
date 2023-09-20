@@ -1,16 +1,14 @@
 ## TASK 1️ ##
 
 <details>
-  
 <summary> <h3> Subtask 1️⃣  </h3> </summary>
 <i> Testing quiz score: 8/10 </i> 🥳
 
 </details>
 
--------------------------------------
-
-### Subtask :two: ###
-_Adding a new Github repository_
+<details>
+<summary> <h3> Subtask :two: </h3> </summary>
+<i> Adding a new Github repository </i>
 
 ----------------------------------
 

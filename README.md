@@ -24,6 +24,7 @@ I also look forward to learn about <b>DevTools</b>, which, at this time, seem on
 
 <details>
 <summary> <h3> Subtask :four: </h3> </summary>
+      
 [Scouts Panel](https://scouts-test.futbolkolektyw.pl/en) - <i> exploratory testing </i> <br>
 <br>
 <b> What's this app for? </b> <br>

@@ -15,9 +15,9 @@
 <i> README editing </i>
 <br> </br>
 This Manual Testing Challenge is my second <i>DareIT</i> course. I've decided to participate in this one, feeling encouraged right after completing the Automated Testing and Python course, which I found really helpful and exciting. I'm sure this challenge will be also based on independent practice and that's exactly what I'm looking for. My main purpose for this course is to: <br>
-* develop skills in <b>web and mobile app testing</b> <br>
-* understand the basics of <b>SQL </b> (which I've already started practicing on my own) <br>
-
+- develop skills in <b>web and mobile app testing</b> <br>
+- understand the basics of <b>SQL </b> (which I've already started practicing on my own) <br>
+<br>
 I also look forward to learn about <b>DevTools</b>, which, at this time, seem one of the most useful and practical testing tools to me.
 </details>
 

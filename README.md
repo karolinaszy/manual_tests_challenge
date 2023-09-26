@@ -64,7 +64,7 @@ Placing the picture with the logo on the left main panel would be more adequate 
 <details>
 <summary> <h3> Subtask :two: </h3> </summary>
       
-[My own experiences based test cases](https://docs.google.com/spreadsheets/d/1eDfkKOzmwgp176t2s64f1L-6R99oGGE6i18GwfHpje8/edit?usp=drive_link) 🧘‍♀️
+<i> [My own experiences based test cases](https://docs.google.com/spreadsheets/d/1eDfkKOzmwgp176t2s64f1L-6R99oGGE6i18GwfHpje8/edit?usp=drive_link) </i> 🧘‍♀️
 </details>
 
 <details>

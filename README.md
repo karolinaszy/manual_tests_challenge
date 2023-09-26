@@ -1,4 +1,5 @@
-## TASK 1️ ## 
+<details> 
+<summary> ## TASK 1️ ## </summary>
 
 <details>
 <summary> <h3> Subtask 1️⃣  </h3> </summary>
@@ -51,6 +52,8 @@ After logging in, user is redirected to the dashboard. The dashboard displays he
 
 Only dashboard seems intuitive to me. 
 Placing the picture with the logo on the left main panel would be more adequate in my opinion.
+</details>
+
 </details>
 
 ## TASK 2 ##

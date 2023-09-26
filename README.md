@@ -1,6 +1,5 @@
-<details>
-      
-<summary> ## TASK 1️ ## </summary>
+<details>      
+<summary> <h2> TASK 1️ </h2> </summary>
 
 <details>
 <summary> <h3> Subtask 1️⃣  </h3> </summary>

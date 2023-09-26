@@ -1,5 +1,5 @@
 <details>      
-<summary> <h2> TASK 1️ </h2> </summary>
+<summary> <h2> TASK 1️⃣ </h2> </summary>
 
 <details>
 <summary> <h3> Subtask 1️⃣  </h3> </summary>
@@ -57,7 +57,7 @@ Placing the picture with the logo on the left main panel would be more adequate 
 </details>
 
 <details>      
-<summary> <h2> TASK 2 </h2> </summary>
+<summary> <h2> TASK 2️⃣ </h2> </summary>
 
 <details>
 <summary> <h3> Subtask :one: </h3> </summary>

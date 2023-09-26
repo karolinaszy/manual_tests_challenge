@@ -25,7 +25,7 @@ I also look forward to learn about <b>DevTools</b>, which, at this time, seem on
 <details>
 <summary> <h3> Subtask :four: </h3> </summary>
       
-[Scouts Panel](https://scouts-test.futbolkolektyw.pl/en) - <i> exploratory testing </i> <br>
+<i> [Scouts Panel](https://scouts-test.futbolkolektyw.pl/en) - exploratory testing </i> <br>
 <br>
 <b> What's this app for? </b> <br>
 Scouts Panel is a web and mobile application created for football ⚽ headhunters. It is a database with football players, matches and reports. <br>
@@ -58,7 +58,7 @@ Placing the picture with the logo on the left main panel would be more adequate 
 <details>
 <summary> <h3> Subtask :one: </h3> </summary>
       
-[User story based test cases](https://docs.google.com/spreadsheets/d/1xaNB1ceHnNw-iiPfOMvtmVnaqZ1ZwAAqJOpfqoQwT5k/edit?usp=drive_link) 🧔
+<i> [User story based test cases](https://docs.google.com/spreadsheets/d/1xaNB1ceHnNw-iiPfOMvtmVnaqZ1ZwAAqJOpfqoQwT5k/edit?usp=drive_link) </i> 🧔
 </details>
 
 <details>

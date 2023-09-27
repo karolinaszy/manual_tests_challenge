@@ -62,13 +62,13 @@ Placing the picture with the logo on the left main panel would be more adequate 
 <details>
 <summary> <h3> Subtask :one: </h3> </summary>
       
-<i> [User story based test cases](https://docs.google.com/spreadsheets/d/1xaNB1ceHnNw-iiPfOMvtmVnaqZ1ZwAAqJOpfqoQwT5k/edit?usp=drive_link) </i> 🧔
+[User story based test cases](https://docs.google.com/spreadsheets/d/1xaNB1ceHnNw-iiPfOMvtmVnaqZ1ZwAAqJOpfqoQwT5k/edit?usp=drive_link) 🧔
 </details>
 
 <details>
 <summary> <h3> Subtask :two: </h3> </summary>
       
-<i> [My own experiences based test cases](https://docs.google.com/spreadsheets/d/1eDfkKOzmwgp176t2s64f1L-6R99oGGE6i18GwfHpje8/edit?usp=drive_link) </i> 🧘‍♀️
+[My own experiences based test cases](https://docs.google.com/spreadsheets/d/1eDfkKOzmwgp176t2s64f1L-6R99oGGE6i18GwfHpje8/edit?usp=drive_link) 🧘‍♀️
 </details>
 
 <details>
@@ -76,6 +76,14 @@ Placing the picture with the logo on the left main panel would be more adequate 
 <i>The purpose of writing test cases </i> 📖
 <br> </br>
 Test cases pisane są w celu sprawdzenia czy aplikacja działa zgodnie z założeniami zawartymi w dokumentacji, czy spełnia wymagania i czy po wykonaniu czynności opisanych w przypadkach testowych rezultaty rzeczywiste są zgodne z oczekiwanymi. Test casy pozwalają także upewnić się, że przeprowadzono wszystkie (ustalone na potrzeby danego projektu) testy funkcjonalności aplikacji. Są także dobrym źródłem wiedzy o działaniu aplikacji dla osób dołączających do projektu. Pomagają wykryć bugi aplikacji. Są ważne w procesie zapewniania wysokiej jakości oprogramowania i dostarczenia klientowi oczekiwanego produktu.
+</details>
+
+<details>      
+<summary> <h2> TASK 3️⃣ </h2> </summary>
+<i> Executing test cases </i>
+
+[Bug report](https://docs.google.com/spreadsheets/d/1hb-gv6v6JmhwuLAF0AuvuvU8oYAPN9v9Tqh1uSQaJ-c/edit?usp=drive_link)
+[Test report](https://docs.google.com/document/d/1WXXMhTjea0YC4vts4uCU_9Bm2xq1Jo2QwImFGRgpSNA/edit?usp=drive_link)
 </details>
 
 </details>

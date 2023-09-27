@@ -77,6 +77,7 @@ Placing the picture with the logo on the left main panel would be more adequate 
 <br> </br>
 Test cases pisane są w celu sprawdzenia czy aplikacja działa zgodnie z założeniami zawartymi w dokumentacji, czy spełnia wymagania i czy po wykonaniu czynności opisanych w przypadkach testowych rezultaty rzeczywiste są zgodne z oczekiwanymi. Test casy pozwalają także upewnić się, że przeprowadzono wszystkie (ustalone na potrzeby danego projektu) testy funkcjonalności aplikacji. Są także dobrym źródłem wiedzy o działaniu aplikacji dla osób dołączających do projektu. Pomagają wykryć bugi aplikacji. Są ważne w procesie zapewniania wysokiej jakości oprogramowania i dostarczenia klientowi oczekiwanego produktu.
 </details>
+</details> 
 
 <details>    
 <summary> <h2> TASK 3️⃣ </h2> </summary>
@@ -85,6 +86,7 @@ Test cases pisane są w celu sprawdzenia czy aplikacja działa zgodnie z założ
 
 [Bug report](https://docs.google.com/spreadsheets/d/1hb-gv6v6JmhwuLAF0AuvuvU8oYAPN9v9Tqh1uSQaJ-c/edit?usp=drive_link) <br>
 [Test report](https://docs.google.com/document/d/1WXXMhTjea0YC4vts4uCU_9Bm2xq1Jo2QwImFGRgpSNA/edit?usp=drive_link)
+</details>
 </details>
 
 </details>

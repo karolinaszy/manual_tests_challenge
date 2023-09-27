@@ -79,12 +79,13 @@ Test cases pisane są w celu sprawdzenia czy aplikacja działa zgodnie z założ
 </details>
 
 <details>
-      
 <summary> <h2> TASK 3️⃣ </h2> </summary>      
 <i> Executing test cases </i>
 
 [Bug report](https://docs.google.com/spreadsheets/d/1hb-gv6v6JmhwuLAF0AuvuvU8oYAPN9v9Tqh1uSQaJ-c/edit?usp=drive_link)
 [Test report](https://docs.google.com/document/d/1WXXMhTjea0YC4vts4uCU_9Bm2xq1Jo2QwImFGRgpSNA/edit?usp=drive_link)
+</details>
+
 </details>
 
 </details>

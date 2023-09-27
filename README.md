@@ -87,5 +87,3 @@ Test cases pisane są w celu sprawdzenia czy aplikacja działa zgodnie z założ
 </details>
 
 </details>
-
-</details>

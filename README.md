@@ -82,7 +82,7 @@ Placing the picture with the logo on the left main panel would be more adequate 
 - to make sure if all app's functionalities (determined in the particular project) have been tested
 - to provide all needed data (about how the app is operating) for new people joining the project
 - to detect bugs
-- to provide high quality software, and product as expected, to the customers 
+- to provide high-quality software, and products as expected, to the customers 
 
 </details>
 </details> 

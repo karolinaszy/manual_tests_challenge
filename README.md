@@ -76,7 +76,7 @@ Placing the picture with the logo on the left main panel would be more adequate 
 <i> The purpose of writing test cases </i> 📖
 <br> </br>
 
-- to confirm that the app is working accordingly to expectations included in the documentation
+- to confirm that the app is working accordingly to the expectations included in the documentation
 - to verify that the app meets the set requirements
 - to validate that after executing all test cases, actual results are as expected
 - to make sure that all app's functionalities (determined in the particular project) have been tested

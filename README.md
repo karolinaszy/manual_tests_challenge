@@ -122,11 +122,9 @@ This version of the app, tested by me, is intented for users from Poland. It's a
 <details> 
 <summary> Is this app user friendly? </summary> <br>
 
-<table>
-      
+<table>    
 | pros: | cons |
-| navigation is intuitive | app is refreshing many times |
-      
+| navigation is intuitive | app is refreshing many times | 
 </table>
 
 

@@ -103,8 +103,8 @@ In my opinion, placing the picture with the logo on the left main panel would be
 [olx mobile app bugs report](https://docs.google.com/spreadsheets/d/1ItrAvKvbV1vl7Mgt1p2S9rNnKdQx-ZbWmBQMJJU4u7w/edit#gid=0) 📱🐞
 
 <details>
-<summary> What is olx and what's it for? </summary>    
-      
+<summary> What is olx and what's it for? <br> </summary>    
+
 It's a local classifieds service/app used for:
 
 - selling stuff from various categories, such as: furnitures, clothes, musical instruments, cars, electronics and many, many others...
@@ -113,18 +113,21 @@ It's a local classifieds service/app used for:
 - booking hotels, hostels, holiday cottages, apartments etc
 </details>
 
-
-<b> Who is the end user of the app? </b>  <br>
+<details>
+<summary> Who is the end user of the app? <br> </summary>
 
 This version of the app, tested by me, is intented for users from Poland. It's available for private individuals, as well as for the companies.
+</details>
 
-<b> Is this app user friendly? </b>  <br>
+<details> 
+<summary> Is this app user friendly? <br> </summary>
 
-| pros:            |          cons: |
---------------------------------------
+| pros:                     |                      cons: |
+----------
 | navigation is intuitive | app is refreshing many times |
+------------
 
-
+</details>
 
 </details>
 

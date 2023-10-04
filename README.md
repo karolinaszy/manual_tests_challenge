@@ -103,7 +103,7 @@ In my opinion, placing the picture with the logo on the left main panel would be
 [olx mobile app bugs report](https://docs.google.com/spreadsheets/d/1ItrAvKvbV1vl7Mgt1p2S9rNnKdQx-ZbWmBQMJJU4u7w/edit#gid=0) 📱🐞
 
 <details>
-<summary> What is olx and what's it for? <br> </summary>    
+<summary> What is olx and what's it for? </summary> <br>  
 
 It's a local classifieds service/app used for:
 

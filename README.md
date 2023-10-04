@@ -123,8 +123,14 @@ This version of the app, tested by me, is intented for users from Poland. It's a
 <summary> Is this app user friendly? </summary> <br>
 
 <table>    
-| pros: | cons |
-| navigation is intuitive | app is refreshing many times | 
+<tr>
+<th> <b> pros: </b> </th>
+<th> <b> cons: </b> </th>
+</tr>
+<tr>
+<th> navigation is intuitive </th>
+<th> app is refreshing many times </th>
+</tr>
 </table>
 
 

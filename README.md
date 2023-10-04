@@ -103,8 +103,8 @@ In my opinion, placing the picture with the logo on the left main panel would be
 [olx mobile app bugs report](https://docs.google.com/spreadsheets/d/1ItrAvKvbV1vl7Mgt1p2S9rNnKdQx-ZbWmBQMJJU4u7w/edit#gid=0) 📱🐞
 
 <details>
-<summary What olx is and what's it for? </summary>
-
+<summary> What is olx and what's it for? </summary>    
+      
 It's a local classifieds service/app used for:
 
 - selling stuff from various categories, such as: furnitures, clothes, musical instruments, cars, electronics and many, many others...

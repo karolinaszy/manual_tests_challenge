@@ -102,7 +102,8 @@ In my opinion, placing the picture with the logo on the left main panel would be
       
 [olx mobile app bugs report](https://docs.google.com/spreadsheets/d/1ItrAvKvbV1vl7Mgt1p2S9rNnKdQx-ZbWmBQMJJU4u7w/edit#gid=0) 📱🐞
 
-<b> What olx is and what's it for? </b>  <br>
+<details>
+<summary What olx is and what's it for? </summary>
 
 It's a local classifieds service/app used for:
 
@@ -110,6 +111,8 @@ It's a local classifieds service/app used for:
 - renting and selling of real estate
 - posting job advertistments
 - booking hotels, hostels, holiday cottages, apartments etc
+</details>
+
 
 <b> Who is the end user of the app? </b>  <br>
 

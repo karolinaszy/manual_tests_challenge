@@ -97,4 +97,10 @@ Placing the picture with the logo on the left main panel would be more adequate 
 </details>
 </details>
 
+<details>
+<summary> <h2> TASK 4️⃣ </h2> </summary>      
+      
+[olx mobile app bugs report](https://docs.google.com/spreadsheets/d/1ItrAvKvbV1vl7Mgt1p2S9rNnKdQx-ZbWmBQMJJU4u7w/edit#gid=0) 📱🐞
+</details>
+
 </details>

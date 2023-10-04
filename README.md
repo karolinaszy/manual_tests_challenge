@@ -111,7 +111,7 @@ It's a local classifieds service/app used for:
 - renting and selling of real estate
 - posting job advertistments
 - booking hotels, hostels, holiday cottages, apartments etc
-</details>
+</details> <br>
 
 <details>
 <summary> Who is the end user of the app? <br> </summary>

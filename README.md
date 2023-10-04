@@ -92,8 +92,8 @@ In my opinion, placing the picture with the logo on the left main panel would be
 
 <i> Executing test cases </i>
 
-[Bug report](https://docs.google.com/spreadsheets/d/1hb-gv6v6JmhwuLAF0AuvuvU8oYAPN9v9Tqh1uSQaJ-c/edit?usp=drive_link) 🐛 <br>
-[Test report](https://docs.google.com/document/d/1WXXMhTjea0YC4vts4uCU_9Bm2xq1Jo2QwImFGRgpSNA/edit?usp=drive_link) 📰
+[bugs report](https://docs.google.com/spreadsheets/d/1hb-gv6v6JmhwuLAF0AuvuvU8oYAPN9v9Tqh1uSQaJ-c/edit?usp=drive_link) 🐛 <br>
+[test report](https://docs.google.com/document/d/1WXXMhTjea0YC4vts4uCU_9Bm2xq1Jo2QwImFGRgpSNA/edit?usp=drive_link) 📰
 </details>
 </details>
 
@@ -101,6 +101,28 @@ In my opinion, placing the picture with the logo on the left main panel would be
 <summary> <h2> TASK 4️⃣ </h2> </summary>      
       
 [olx mobile app bugs report](https://docs.google.com/spreadsheets/d/1ItrAvKvbV1vl7Mgt1p2S9rNnKdQx-ZbWmBQMJJU4u7w/edit#gid=0) 📱🐞
+
+<b> What olx is and what's it for? </b>  <br>
+
+It's a local classifieds service/app used for:
+
+- selling stuff from various categories, such as: furnitures, clothes, musical instruments, cars, electronics and many, many others...
+- renting and selling of real estate
+- posting job advertistments
+- booking hotels, hostels, holiday cottages, apartments etc
+
+<b> Who is the end user of the app? </b>  <br>
+
+This version of the app, tested by me, is intented for users from Poland. It's available for private individuals, as well as for the companies.
+
+<b> Is this app user friendly? </b>  <br>
+
+| pros:            |          cons: |
+--------------------------------------
+| navigation is intuitive | app is refreshing many times |
+
+
+
 </details>
 
 </details>

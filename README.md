@@ -50,8 +50,8 @@ After logging in, user is redirected to the dashboard. The dashboard displays he
 
 <b> Intuitiveness </b>
 
-Only dashboard seems intuitive to me. 
-Placing the picture with the logo on the left main panel would be more adequate in my opinion.
+Only the dashboard seems intuitive to me. 
+In my opinion, placing the picture with the logo on the left main panel would be more adequate.
 </details>
 
 </details>

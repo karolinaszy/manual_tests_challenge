@@ -114,20 +114,19 @@ It's a local classifieds service/app used for:
 </details>
 
 <details>
-<summary> Who is the end user of the app? <br> </summary>
+<summary> Who is the end user of the app? </summary> <br>
 
 This version of the app, tested by me, is intented for users from Poland. It's available for private individuals, as well as for the companies.
 </details>
 
 <details> 
-<summary> Is this app user friendly? <br> </summary>
+<summary> Is this app user friendly? </summary> <br>
 
+--
 | pros:                     |                      cons: |
 ----------
 | navigation is intuitive | app is refreshing many times |
-------------
 
-</details>
 
 </details>
 

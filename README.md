@@ -1,3 +1,5 @@
+Tested apps - [Scouts Panel](https://scouts-test.futbolkolektyw.pl/en) / olx mobile app / [swipeto](https://swipeto.pl/)
+
 <details>      
 <summary> <h2> TASK 1️⃣ </h2> </summary>
 
@@ -137,3 +139,4 @@ This version of the app, tested by me, is intented for users from Poland. It's a
 </details>
 
 </details>
+and more to come...

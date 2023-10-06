@@ -64,7 +64,7 @@ In my opinion, placing the picture with the logo on the left main panel would be
 <details>
 <summary> <h3> Subtask :one: </h3> </summary>
       
-[User story based test cases](https://docs.google.com/spreadsheets/d/1xaNB1ceHnNw-iiPfOMvtmVnaqZ1ZwAAqJOpfqoQwT5k/edit?usp=drive_link) 🧔
+[User stories based test cases](https://docs.google.com/spreadsheets/d/1xaNB1ceHnNw-iiPfOMvtmVnaqZ1ZwAAqJOpfqoQwT5k/edit?usp=drive_link) 🧔
 </details>
 
 <details>

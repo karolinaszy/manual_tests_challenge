@@ -138,5 +138,12 @@ This version of the app, tested by me, is intented for users from Poland. It's a
 
 </details>
 
+<details>
+<summary> <h2> TASK 5️⃣ </h2> </summary>     
 </details>
-and more to come...
+
+<details>
+<summary> <h2> TASK 6️⃣ </h2> </summary>      
+</details>
+
+</details>

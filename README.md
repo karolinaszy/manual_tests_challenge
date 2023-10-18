@@ -137,6 +137,7 @@ This version of the app, tested by me, is intented for users from Poland. It's a
 
 
 </details>
+</details>
 
 <details>
 <summary> <h2> TASK 5️⃣ </h2> </summary>     
@@ -144,6 +145,4 @@ This version of the app, tested by me, is intented for users from Poland. It's a
 
 <details>
 <summary> <h2> TASK 6️⃣ </h2> </summary>      
-</details>
-
 </details>

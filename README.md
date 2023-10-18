@@ -146,10 +146,20 @@ This version of the app, tested by me, is intented for users from Poland. It's a
 <details>
 <summary> <h2> TASK 6️⃣ </h2> </summary>
 
+<details>
+<summary> <h3> Subtask 1️⃣ </h3> </summary>
+
 11. UPDATE 'customers' SET 'surname' = 'Miler' WHERE 'name' = 'Ania';
 13. UPDATE 'customers' SET 'email' = 'pati@mail.com' WHERE 'name' = 'Patrycja';
 15. ALTER TABLE 'customers' ADD 'pseudonym'
 19. SELECT name, surname FROM actors WHERE actor_id = '4';
 20. INSERT INTO customers VALUES ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
+</details>
+
+<details> 
+<summary> Subtask 2️⃣ </summary>
+      
+test score: 14/15
+</details>
 
 </details>

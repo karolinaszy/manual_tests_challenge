@@ -157,9 +157,10 @@ This version of the app, tested by me, is intented for users from Poland. It's a
 </details>
 
 <details> 
-<summary> Subtask 2️⃣ </summary>
+<summary> <h4> Subtask 2️⃣ </h4> </summary>
       
 test score: 14/15
+
 </details>
 
 </details>

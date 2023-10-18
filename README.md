@@ -4,17 +4,17 @@ Tested apps - [Scouts Panel](https://scouts-test.futbolkolektyw.pl/en) / olx mob
 <summary> <h2> TASK 1️⃣ </h2> </summary>
 
 <details>
-<summary> <h3> Subtask 1️⃣  </h3> </summary>
+<summary> <h4> Subtask 1️⃣  </h4> </summary>
 <i> Testing quiz score: 8/10 </i> 🥳 
 </details>
 
 <details>
-<summary> <h3> Subtask :two: </h3> </summary>
+<summary> <h4> Subtask :two: </h4> </summary>
 <i> Adding a new Github repository </i>
 </details>
 
 <details>
-<summary> <h3> Subtask :three: </h3> </summary>
+<summary> <h4> Subtask :three: </h4> </summary>
 <i> README editing </i>
 <br> </br>
 This Manual Testing Challenge is my second course from <i>DareIT</i>. I've decided to participate in this one, feeling encouraged right after completing the Automated Testing and Python course, which I found helpful and exciting. I'm sure this challenge will be also based on independent practice and that's exactly what I'm looking for. My main purpose for this course is to: <br>
@@ -26,7 +26,7 @@ I also look forward to learn about <b>DevTools</b>, which, at this time, seem on
 </details>
 
 <details>
-<summary> <h3> Subtask :four: </h3> </summary>
+<summary> <h4> Subtask :four: </h4> </summary>
       
 <i> [Scouts Panel](https://scouts-test.futbolkolektyw.pl/en) - exploratory testing </i> <br>
 <br>
@@ -62,19 +62,19 @@ In my opinion, placing the picture with the logo on the left main panel would be
 <summary> <h2> TASK 2️⃣ </h2> </summary>
 
 <details>
-<summary> <h3> Subtask :one: </h3> </summary>
+<summary> <h4> Subtask :one: </h4> </summary>
       
 [User stories based test cases](https://docs.google.com/spreadsheets/d/1xaNB1ceHnNw-iiPfOMvtmVnaqZ1ZwAAqJOpfqoQwT5k/edit?usp=drive_link) 🧔
 </details>
 
 <details>
-<summary> <h3> Subtask :two: </h3> </summary>
+<summary> <h4> Subtask :two: </h4> </summary>
       
 [My own experiences based test cases](https://docs.google.com/spreadsheets/d/1eDfkKOzmwgp176t2s64f1L-6R99oGGE6i18GwfHpje8/edit?usp=drive_link) 🧘‍♀️
 </details>
 
 <details>
-<summary> <h3> Subtask 3️⃣ </h3> </summary>
+<summary> <h4> Subtask 3️⃣ </h4> </summary>
 <i> The purpose of writing test cases </i> 📖
 <br> </br>
 
@@ -147,7 +147,7 @@ This version of the app, tested by me, is intented for users from Poland. It's a
 <summary> <h2> TASK 6️⃣ </h2> </summary>
 
 <details>
-<summary> <h3> Subtask 1️⃣ </h3> </summary>
+<summary> <h4> Subtask 1️⃣ </h4> </summary>
 
 11. UPDATE 'customers' SET 'surname' = 'Miler' WHERE 'name' = 'Ania';
 13. UPDATE 'customers' SET 'email' = 'pati@mail.com' WHERE 'name' = 'Patrycja';

@@ -22,7 +22,7 @@ This Manual Testing Challenge is my second course from <i>DareIT</i>. I've decid
 - develop skills in <b>web and mobile app testing</b> <br>
 - understand the basics of <b>SQL </b> (which I've already started practicing on my own) <br>
 <br>
-I also look forward to learn about <b>DevTools</b>, which, at this time, seem one of the most useful and practical testing tools to me.
+I'm also looking forward to learning about <b>DevTools</b>.
 </details>
 
 <details>

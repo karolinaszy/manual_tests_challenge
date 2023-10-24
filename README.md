@@ -140,7 +140,10 @@ This version of the app, tested by me, is intented for users from Poland. It's a
 </details>
 
 <details>
-<summary> <h2> TASK 5️⃣ </h2> </summary>     
+<summary> <h2> TASK 5️⃣ </h2> </summary>    
+      
+1. SELECT * FROM actors ORDER BY surname;
+
 </details>
 
 <details>
